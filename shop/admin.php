@@ -34,7 +34,7 @@
 						<div class="contactinfo">
 							<ul class="nav nav-pills">
 								<h2><a href="#"> Online Store Administrator </a></h2>
-                				<h4>You are logged in as <?php   echo $full_name; ?></h4>
+                <h4>Logged in as <?php   echo $full_name; ?></h4>
 							</ul>
 						</div>
 					</div>
@@ -71,10 +71,10 @@
 						<table cellpadding="1" cellspacing="1" id="resultTable" class="table table-bordered">
 							<thead class="bg-primary">
 								<tr>
-									<th> The Product </th>
-									<th> The Desciption </th>
-									<th> The Category </th>
-									<th> The Price </th>
+									<th> Product </th>
+									<th> Desciption </th>
+									<th> Category </th>
+									<th> Price </th>
 									<th width="15%"> Action </th>
 								</tr>
 							</thead>
