@@ -80,6 +80,8 @@
 							<p>Mobile: +254 7200000000</p>
 							<p>Fax: +254 7200000000</p>
 							<p>Email: email@email.com</p>
+							<p>We are an amazing E-Commerce firm</p>
+							<p> Try us for the best of the best deals out there</p>
 	    				</address>
 					</div><!--/login form-->
 				</div>
